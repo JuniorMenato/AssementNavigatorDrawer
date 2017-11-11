@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">AssementNavigatorDrawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="Info_Nome">Nome: Izael Floriano Menato</string>
+    <string name="info_idade">Idade:36 </string>
+    <string name="info_dataNas"> Data Nascimento: 03/05/1981 </string>>
+    <string name="info_cel"> Telefone:+55 21 993092149</string>
+
+    <string name="experience_professiona">Analista de Suporte Sênior e atualmente Coordenador de Suporte / Service Desk.
+        técnica da equipe de service desk (n1 e n2)
+        grande experiência em suporte técnico , Office 2007 e 2010 avançado ,Windows Server 2008,Backup e
+        Restore de Base de Dados, Call Manager , Atualização de Scripts SQL Server,
+        manutenção de micros , redes , instalação e gerenciamento de dispositivos de rede.TCP/IP,Conceitos de LAN e WAN,
+        Endereçamento IP,Tecnologias Wireless,Equipamentos de rede,Cisco CLI e SDM,Construindo e protegendo redes,Switching: V
+        LAN.</string>
+
+    <string name="exp_info"> Experiência Profissional</string>
+    <string name="form_info"> Formação Profissional</string>
+    <string name="Formacao_info">
+        3 anos de experiência com Infraestrutura em Windows (2008 r2 e 2012);
+        Ampla conhecimento em virtualização, Citrix, Office 365
+• 2 anos de experiência com Projetos, Gestão de Serviços e Governança de Tecnologia;
+• Grande conhecimento em Infraestrutura de TI, Redes, Conectividade e Segurança da Informação.
+    </string>
+
+    <string name="curso_inf">MCSE - Microsoft Certified Systems Engineer;
+MCSA - Microsoft Certified System Administrator;
+ MCP - Microsoft Certified Professional; </string>
+
+    <string name="CUrso">Cursos</string>
+
+
+
+</resources>
